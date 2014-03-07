@@ -1,9 +1,9 @@
-BODY {font-family: 'Headland One', serif;}
+BODY {font-family: 'Helvetica', serif;}
 
 H1 {font-weight: 900;}
 
 #bizcanvas {
-  border: 3px solid black;
+  border: 5px solid black;
   width: 100%;
 }
 
@@ -14,10 +14,9 @@ H1 {font-weight: 900;}
   padding: 6px;
 }
 
-
 #bizcanvas H4 {
   font-weight: 700;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 #bizcanvas H5 {
@@ -26,6 +25,10 @@ H1 {font-weight: 900;}
 }
 
 #bizcanvas p {
+  font-weight: 400;
+  font-size: 0.9em;
+}
+
+.copy {
   font-weight: 300;
-  font-size: 0.8em;
 }
